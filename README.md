@@ -4,3 +4,5 @@ I like cartoons!
 
 I like basketball
 
+I added the output folder with a #.gitkeep#
+
